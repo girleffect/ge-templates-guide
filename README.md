@@ -1,2 +1,2 @@
-# ge-templates-guide
+# Girl Effect - Templates Guide
 GE.org template guide
