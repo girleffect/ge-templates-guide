@@ -1,4 +1,4 @@
-## Wagtail CMS pages
+# Wagtail CMS pages
 
 <br/>
 

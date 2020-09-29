@@ -1,9 +1,10 @@
-# Girl Effect - Templates Guide
+# Girl Effect
+### Templates Guide
 
 Welcome to the templates guide [mkdocs.org](https://www.mkdocs.org).
 
 <br/>
-#### Table of contents
+### Table of contents
 
 * Page 1 - Wagtail CMS pages
 * Page 2 - Navigation Links
@@ -14,6 +15,7 @@ Welcome to the templates guide [mkdocs.org](https://www.mkdocs.org).
 
 <hr/>
 <br/>
+## Introduction
 
 The purpose of this document is to help members of the Praekelt and Girl Effect organisation get a deeper understanding of the structure, the functionality of the Girleffect.org website and it’s CMS (Wagtail) components.
 

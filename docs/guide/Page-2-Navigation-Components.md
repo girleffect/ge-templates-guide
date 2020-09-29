@@ -1,4 +1,4 @@
-## Navigation components
+# Navigation components
 
 <br/>
 
