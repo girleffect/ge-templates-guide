@@ -64,7 +64,7 @@ _Desktop view_
 
 <br/>
 
-**Introduction stream field:**
+## Introduction stream field:
 
 CMS:
 
@@ -127,3 +127,46 @@ Quotes stream field is a quotes content feature and Customisation inputs with th
     * **Drop shadow toggle** - applies drop shadows to the quote text
     * **Text hex code color** - changes the quote text color, when this hex color is applied, the Quote mark hex color does not work on the frontend
 * **Quote mark hex code** -  changes the quote marks color
+
+
+CMS:
+![Quote Streamfield](../images/quote-streamfield.png "Quote Streamfield")
+_Quote streamfield_
+
+
+<br/>
+
+**Customisation** inputs
+
+* Background image input field
+* Background hex color input field
+* Body heading hex color - This text color does not get applied on the frontend for Body heading hex on the Body text stream field
+
+<br/>
+
+**Slider** stream field
+Is a full background image and content blocks with a slider button click event  navigation. You can enable an automatic slide animation with a time slider delay.
+You can add up to a maximum of 10 items on the slider
+
+_Desktop view_
+![Slider](../images/slider-1.png "Slider animation")
+![Slider](../images/slider-2.png "Slider animation")
+
+_Mobile view_
+![Slider](../images/slider-1-mobile.png "Slider animation") ![Slider](../images/slider-2-mobile.png "Slider animation")
+
+* **Slider** delay - Is a time delay between each slide auto animation measured in milliseconds
+* **Slider items** -
+    * **Image** - Is the slider fullscreen background image and this a required field
+    * **Overview title** - Slider overview title
+    * **Overview title shadow** -
+        * **Drop shadow toggle**
+        * **Text hex code**
+    * **Overview text**
+* **Overview text shadow**
+    * **Drop shadow toggle**
+    * **Text hex code**
+* **Textbox title** - slider text box title
+* **Textbox text** - slider item textbox text, The content can be a maximum of 6 lines of paragraph within the text box however the content admin must text whether the content does not overflow.
+* **Textbox link** - use one of the links input fields External Link, Internal Link and related text field or Document Link and related link field but no more than 1 at a time
+    * **Link Text** - is the call to action, if this field is not added no call to action text is shown on the frontend
