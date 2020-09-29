@@ -149,10 +149,12 @@ Is a full background image and content blocks with a slider button click event  
 You can add up to a maximum of 10 items on the slider
 
 _Desktop view_
+
 ![Slider](../images/slider-1.png "Slider animation")
 ![Slider](../images/slider-2.png "Slider animation")
 
 _Mobile view_
+
 ![Slider](../images/slider-1-mobile.png "Slider animation") ![Slider](../images/slider-2-mobile.png "Slider animation")
 
 * **Slider** delay - Is a time delay between each slide auto animation measured in milliseconds
@@ -170,3 +172,92 @@ _Mobile view_
 * **Textbox text** - slider item textbox text, The content can be a maximum of 6 lines of paragraph within the text box however the content admin must text whether the content does not overflow.
 * **Textbox link** - use one of the links input fields External Link, Internal Link and related text field or Document Link and related link field but no more than 1 at a time
     * **Link Text** - is the call to action, if this field is not added no call to action text is shown on the frontend
+
+
+CMS:
+![Slider CMS](../images/slider-a.png "Slider CMS")
+_Slider streamfield_
+
+![Slider CMS](../images/slider.png "Slider CMS")
+_Slider links streamfield_
+
+<br/>
+
+**Carousel** stream field
+
+Is a full background image and category content blocks carousel fade in/out animation that is layered and shown over the other. The admin can add several blocks of carousel tems up to a maximum of 3
+
+_Desktop view_
+![Slider CMS](../images/carousel-1a.png "Carousel")
+![Slider CMS](../images/carousel-1c.png "Carousel")
+
+Carousel stream field is made up by the following fields
+
+* **Image** - a full screen image upload field, this is a required input field
+* **Overview title** - Is the slider carousel item overview title. This must be generic across the carousel items e.g. What we do
+* **Overview title shadow** -
+    * **Drop shadow toggle** - Is the subtle Overview title text shadow
+    * **Text hex code** - Is the Overview title text color
+* **Textbox title** - Is the carousel item textbox title popup
+* **Textbox text** - Is the carousel item textbox content of, this field is not a rich text field. The content can be a maximum of 6 lines of paragraph within the textbox however the content admin must text whether the content does not overflow.
+* **Textbox link** -  use one of the links input fields External Link, Internal Link and related text field or Document Link and related link field but no more than 1 at a time
+    * **Link Text** - is the call to action, if this field is not added no call to action text is shown on the frontend
+* **Slide title** - use the textbox slider title instead of logo but cannot use both as the same time, if the slide logo field is not used this is a required input field
+* **Slide logo** - use the textbox slider logo instead of text but cannot use both as the same time, if the slide title is not used this is a required input field
+* **Slide title hex** - this is the color of the Slide title text
+
+CMS:
+![Carousel CMS](../images/carousel.png "Carousel")
+
+<br/>
+
+**Girl Effect Youtube Video** stream field
+
+CMS
+![Youtube Video](../images/youtube.png "Youtube Video")
+
+
+**Full Width Media with Text Overlay** stream field
+**Full Width Media with Text Overlay Snippet** stream filed - See the snippets section
+**List Block** stream field
+
+CMS:
+
+<br/>
+
+**Blockquote** stream field
+
+CMS:
+![Body Streamfield](../images/body-streamfield.png "Youtube Video")
+_Blockquote streamfield_
+
+<br/>
+
+**HTML Editor** stream field
+
+CMS:
+![HTML Streamfield](../images/html-streamfield.png "HTML Streamfield")
+_HTML streamfield_
+
+Statistics Block stream field
+
+CMS:
+
+![Stats Streamfield](../images/body-stats-streamfield.png "Stats Streamfield")
+_Statistic streamfield_
+
+
+**Call to action stream field** - See the snippets section
+
+<br/>
+
+## Image specs
+**What to consider when uploading images, videos that are compatible to multiple devices**
+
+**Page Image spec:**
+
++ Weight: **185 KB** or less
++ Size: **1600px wide**
++ Height: Minimum is **700px**
++ **65-75** export image quality
++ Image formats: jpeg, png
