@@ -5,19 +5,15 @@ Welcome to the templates guide [mkdocs.org](https://www.mkdocs.org).
 <br/>
 #### Table of contents
 
-=============================
-
-* Wagtail CMS pages
-* Navigation Links
-* Page streamfields - overall page streamfields
-* Snippets
+* Page 1 - Wagtail CMS pages
+* Page 2 - Navigation Links
+* Page 3 - Page streamfields - overall page streamfields
+* Page 4 - Snippets
 
 
 
+<hr/>
 <br/>
-
-
-## Concepts
 
 The purpose of this document is to help members of the Praekelt and Girl Effect organisation get a deeper understanding of the structure, the functionality of the Girleffect.org website and it’s CMS (Wagtail) components.
 
